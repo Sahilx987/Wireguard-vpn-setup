@@ -168,4 +168,4 @@ Secrets required:
 ## 👨‍💻 Author
 
 **Sahil** — DevOps Engineer  
-[GitHub](https://github.com/Sahilx987) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+[GitHub](https://github.com/Sahilx987) | [LinkedIn](https://www.linkedin.com/in/sahil-kumar-cloud/)
