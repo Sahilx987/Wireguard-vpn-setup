@@ -6,6 +6,8 @@ A production-style secure access architecture built with Terraform where a priva
 
 ## 🏗️ Architecture
 
+![Architecture](diagrams/architecture.svg)
+
 ```
 Local Machine
      ↓
